@@ -1,7 +1,7 @@
 # D26TXCN02-N_IT108_Session2_Ex01
 # Phân tích tốc độ Internet 
 ## 1. Phân tích lỗi và sửa lời giải 
-### Lỗi 1: Nhầm Mbps với MB/s  
+### Lỗi nhầm Mbps với MB/s  
 
 Nhận định: Gói mạng 100 Mbps tương đương 100 MB/s. 
 **Sai.** 
@@ -12,7 +12,7 @@ Do đó:
 100 Mbps / 8 = 12,5 MB/s 
 Vậy gói mạng 100 Mbps có tốc độ tải lý thuyết khoảng 12,5 MB/s. 
 
-### Lỗi 2: Cho rằng nhà mạng chỉ cung cấp 12,5% tốc độ cam kết 
+### Lỗi cho rằng nhà mạng chỉ cung cấp 12,5% tốc độ cam kết 
 
 Nhận định: Trình duyệt chỉ hiển thị 12,5 MB/s nên nhà mạng chỉ cung cấp 12,5% tốc độ cam kết. 
 **Sai.** 
@@ -23,7 +23,7 @@ Tốc độ trình duyệt hiển thị là:
 Như vậy, 12,5 MB/s thực chất tương đương 100 Mbps. 
 Do đó, tốc độ tải 12,5 MB/s phù hợp với tốc độ lý thuyết của gói mạng 100 Mbps.  
 
-### Lỗi 3: Tính sai thời gian tải tệp 1 GB khi mạng 40 Mbps 
+### Lỗi tính sai thời gian tải tệp 1 GB khi mạng 40 Mbps 
 
 Nhận định: Mạng 40 Mbps tải tệp 1 GB mất khoảng 25 giây. 
 **Sai.** 
