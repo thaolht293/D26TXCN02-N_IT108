@@ -1,3 +1,4 @@
+# D26TXCN02-N_IT108_Session2_Ex01
 # Phân tích tốc độ Internet 
 ## 1. Phân tích lỗi và sửa lời giải 
 ### Lỗi 1: Nhầm Mbps với MB/s  
@@ -6,7 +7,7 @@ Nhận định: Gói mạng 100 Mbps tương đương 100 MB/s.
 **Sai.** 
 Mbps là Megabit trên giây, còn MB/s là Megabyte trên giây. 
 Theo quy tắc: 
-* 1 Byte = 8 Bits 
+ 1 Byte = 8 Bits 
 Do đó:  
 100 Mbps / 8 = 12,5 MB/s 
 Vậy gói mạng 100 Mbps có tốc độ tải lý thuyết khoảng 12,5 MB/s. 
@@ -40,8 +41,8 @@ Vậy tệp 1 GB sẽ mất khoảng 200 giây, tương đương 3 phút 20 giâ
 
 Nguyên nhân của các lỗi trên là do nhầm lẫn giữa **Bit** và **Byte**.  
 Tóm lại: 
-* 100 Mbps = 12,5 MB/s 
-* 12,5 MB/s = 100 Mbps 
-* 40 Mbps = 5 MB/s 
-* Tệp 1 GB ở tốc độ 40 Mbps mất khoảng 200 giây  
+100 Mbps = 12,5 MB/s 
+12,5 MB/s = 100 Mbps 
+40 Mbps = 5 MB/s 
+Tệp 1 GB ở tốc độ 40 Mbps mất khoảng 200 giây  
 Với dữ liệu trong đề bài, Nam **không nên khiếu nại nhà mạng chỉ dựa trên việc trình duyệt hiển** 
