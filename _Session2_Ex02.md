@@ -38,4 +38,4 @@ Tóm lại:
 12,5 MB/s = 100 Mbps 
 40 Mbps = 5 MB/s 
 Tệp 1 GB ở tốc độ 40 Mbps mất khoảng 200 giây  
-bạn Nam **không nên khiếu nại nhà mạng chỉ dựa trên việc trình duyệt hiển** 
+bạn Nam **không nên khiếu nại nhà mạng chỉ dựa trên việc trình duyệt hiển thị** 
