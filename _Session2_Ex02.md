@@ -1,4 +1,4 @@
-# D26TXCN02-N_IT108_Session2_Ex01
+# D26TXCN02-N_IT108_Session2_Ex02
 # Phân tích tốc độ Internet 
 ## 1. Phân tích lỗi và sửa lời giải 
 Nhầm Mbps với MB/s  
