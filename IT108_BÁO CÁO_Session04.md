@@ -33,7 +33,7 @@
 
 ## **LÍ DO TẠI SAO PHẢI HỌC CÁC KIẾN THỨC NÊU TRÊN**
 
-* 
+
 
 Giúp sinh viên năm nhất như tụi em không còn sợ giao diện Terminal/PowerShell.  
 Nắm được kỹ năng bắt buộc của coder: dùng lệnh để quản trị Server (do Server thực tế thường tắt GUI để tối ưu RAM/CPU).  
