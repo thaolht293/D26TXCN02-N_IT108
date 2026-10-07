@@ -29,8 +29,8 @@
 * Lss2\_ Các lệnh điều hướng hệ thống file và đường dẫn (pwd, cd, ls / dir).   
 * Lss3\_ Các lệnh thao tác file và thư mục (mkdir, touch / New-Item, rm, cp, mv).  
 * Lss4\_ Các lỗi thường gặp khi làm việc với Terminal và cách khắc phục.   
-* 
 
+  
 ## **LÍ DO TẠI SAO PHẢI HỌC CÁC KIẾN THỨC NÊU TRÊN**
 
 
